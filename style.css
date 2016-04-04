@@ -1,0 +1,12 @@
+
+td {
+  border: 1px solid #c8c2c2;
+  padding: 10px 5px;
+}
+table {
+  width: 100% !important;
+}
+
+tr:first-child {
+  background: #ddd none repeat scroll 0 0;
+}
